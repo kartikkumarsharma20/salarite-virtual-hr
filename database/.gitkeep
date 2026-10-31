@@ -1,0 +1,2 @@
+# Placeholder to ensure database directory is tracked in Git
+# SQLite database files (*.db, *.sqlite) are excluded via .gitignore
